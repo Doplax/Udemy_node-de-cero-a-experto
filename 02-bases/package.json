@@ -1,0 +1,13 @@
+{
+  "name": "02-bases",
+  "version": "0.0.1",
+  "description": "Esto es una app para practicar node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node  src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "echo 'hola mundo desde dev'"
+  },
+  "author": "Pol Valle",
+  "license": "ISC"
+}
